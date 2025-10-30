@@ -2,5 +2,5 @@
 // Boouu !!
 // Hello World if a neophyte functional code 
 // 
-echo "Dylan vas-y résoud-nous ça <3";
+echo "Allez Hugo vas-y";
 ?>
