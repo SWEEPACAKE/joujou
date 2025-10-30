@@ -9,3 +9,13 @@
 // Bonjour tout le monde, c'est Manu
 // Bonjour de Nadège
 // coucou c'est nous c'est nous c'est nous
+
+// Salut Nico
+// Salut  Thomas
+// Salut  Carole
+// Bondour  Dylan
+// Salut  Hugo Pinauuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+// Bonjour  Abdel
+// Bonjour Nadège
+// je suis crevé et je veux etre en distanciel!!!!!!!!!!
+// On est deux Abdel, on est deux...
