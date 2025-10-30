@@ -1,10 +1,12 @@
-<?php
-// Bonjour, ici on va s'amuser à faire n'importe quoi
-// Salut c'est Nico
-// Salut c'est Thomas
-// Salut c'est Carole
-//Bondour c'est Dylan
-// Salut c'est Hugo Pinauu
-// Bonjour tout le monde, c'est Abdel
-// Bonjour tout le monde, c'est Manu
-// Bonjour de Nadège
+<div>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, est?
+</div>
+<div>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus
+</div>
+<div>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit
+</div>
+<div>
+    Lorem ipsum dolor sit amet consectetur adipisicing
+</div>
